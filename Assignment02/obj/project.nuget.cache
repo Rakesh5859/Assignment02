@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/7UUmwqQKtI8skkK7CvH31gtBdi/OUaz+YidVdi9ceXXcwT7Zt0Y/uk8C98Aqxafy9Mg2NNVecCT6+DN584ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaswa\\OneDrive\\Desktop\\Assignment02\\Assignment02\\Assignment02\\Assignment02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaswa\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\jaswa\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
